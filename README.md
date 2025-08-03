@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **Automation, Manual, and API Testing**
 - 💬 Ask me about **SQA Engineering**
 - 📫 How to reach me **apurbokabbo1999@gmail.com**
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1x1zb9ZMW7eiTJPZcHZcWihMswilOkiT0/view?usp=sharing)
+- 📄 Know about my experiences [Click for view](https://www.apurbokabbo.com/cv/A-M-Kabbo-Hossain-Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
