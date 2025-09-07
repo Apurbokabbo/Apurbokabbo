@@ -4,7 +4,7 @@
 </a>
 
 <!-- Intro -->
-<h1 align="center">Hi 👋, I'm A M Kabbo Hossain Apurbo</h1>
+<h1 align="center">Hi, I'm A M Kabbo Hossain Apurbo</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
