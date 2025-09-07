@@ -5,7 +5,13 @@
 
 <!-- Intro -->
 <h1 align="center">Hi 👋, I'm A M Kabbo Hossain Apurbo</h1>
-<h3 align="center">💻 Passionate Software Quality Assurance (SQA) Engineer | Automation | Manual | API Testing 🚀</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF5733&center=true&vCenter=true&width=600&lines=Passionate+Software+Quality+Assurance+Engineer;Automation+Testing;Manual+Testing;Always+Learning+New+Tools+%26+Technologies" alt="Typing Animation">
+  </a>
+</p>
+
 
 <!-- GIF -->
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif">
