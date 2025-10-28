@@ -24,9 +24,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🚀 Passionate **Software Quality Assurance Engineer** with 3.5+ years of experience in **Automation, Manual, and API Testing**
+- 🚀 Passionate **Software Quality Assurance Engineer** with 4.5+ years of experience in **Automation, Manual, and API Testing**
 - 🧠 Currently exploring **Playwright, Cypress, and Cucumber** to strengthen automation frameworks  
-- 💡 Skilled in **Test Strategy, CI/CD Integration, and Agile QA Practices**
+- 💡 Skilled in **Test Strategy and Agile QA Practices**
 - 🛠️ Hands-on with **Selenium, Postman, JMeter, Appium, and Git**
 - ✨ Believer in *“Testing Beyond Bugs — Ensuring Quality Experience”*
 - 📫 Reach me at: **apurbokabbo1999@gmail.com**
