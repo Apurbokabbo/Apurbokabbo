@@ -24,11 +24,14 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Currently learning **Cypress & Cucumber**
-- 🔭 Working on **Automation, Manual, and API Testing**
-- 💬 Ask me about **SQA Engineering & Test Automation**
+- 🚀 Passionate **Software Quality Assurance Engineer** with 3.5+ years of experience in **Automation, Manual, and API Testing**
+- 🧠 Currently exploring **Playwright, Cypress, and Cucumber** to strengthen automation frameworks  
+- 💡 Skilled in **Test Strategy, CI/CD Integration, and Agile QA Practices**
+- 🛠️ Hands-on with **Selenium, Postman, JMeter, Appium, and Git**
+- ✨ Believer in *“Testing Beyond Bugs — Ensuring Quality Experience”*
 - 📫 Reach me at: **apurbokabbo1999@gmail.com**
 - 📄 [View My Resume](https://www.apurbokabbo.com/cv/A-M-Kabbo-Hossain-Resume.pdf)
+
 
 ---
 
