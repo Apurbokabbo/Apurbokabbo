@@ -65,6 +65,17 @@
 
 ## 🛠️ Languages & Tools
 
+
+### ⚡ Automation Frameworks
+<p align="left" style="white-space: nowrap;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="42" height="42" title="Selenium"/>
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="42" height="42" title="Playwright"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cypress.svg" width="42" height="42" title="Cypress"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cucumber.svg" width="42" height="42" title="Cucumber"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Appium.png" width="42" height="42" title="Appium"/>
+  <img src="https://avatars.githubusercontent.com/u/92543516?s=200&v=4" width="42" height="42" title="Maestro"/>
+</p>
+
 ### ⚡ Automation Frameworks
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="42" height="42" title="Selenium"/>
