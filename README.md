@@ -38,8 +38,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-4.5%2B%20Years-00D9FF?style=for-the-badge&logo=clockify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Testing-Automation%20%7C%20Manual%20%7C%20API-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Framework-Selenium%20%7C%20Playwright%20%7C%20Cypress-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Testing-Automation%20%7C%20Manual%20%7C%20API%20%7C%20Performance-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Framework-Selenium%20%7C%20Playwright%20%7C%20Cypress%20%7C%20Appium%20%7C%20Maestro-orange?style=for-the-badge"/>
 </p>
 
 ---
