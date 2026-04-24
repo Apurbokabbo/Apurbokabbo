@@ -57,7 +57,7 @@
   <a href="mailto:apurbokabbo1999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.apurbokabbo.com/cv/A-M-Kabbo-Hossain-Resume.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1mGJuh0Po2RWi15w0CNBrZKIdxfoONlQu/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View%20CV-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/>
   </a>
 </p>
