@@ -31,7 +31,6 @@
 - 🔐 Expanding into **Security Testing** and **Shift-Left QA methodologies**
 - ✨ Believer in *"Testing Beyond Bugs — Ensuring Quality Experience"*
 - 📫 Reach me: **apurbokabbo1999@gmail.com**
-- 📄 [View My Resume](https://www.apurbokabbo.com/cv/A-M-Kabbo-Hossain-Resume.pdf)
 
 ---
 
