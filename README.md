@@ -76,15 +76,6 @@
   <img src="https://avatars.githubusercontent.com/u/92543516?s=200&v=4" width="42" height="42" title="Maestro"/>
 </p>
 
-### ⚡ Automation Frameworks
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="42" height="42" title="Selenium"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/playwright.svg" alt="Playwright" width="42" height="42" title="Playwright" style="filter:invert(1)"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cypress.svg" alt="Cypress" width="42" height="42" title="Cypress"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cucumber.svg" alt="Cucumber" width="42" height="42" title="Cucumber"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Appium.png" alt="Appium" width="42" height="42" title="Appium"/>
-</p>
-
 ### 🔬 API & Performance
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="42" height="42" title="Postman"/>
