@@ -63,32 +63,17 @@
 
 ---
 
+
 ## 🛠️ Languages & Tools
 
-
 ### ⚡ Automation Frameworks
-<p align="left" style="white-space: nowrap;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="42" height="42" title="Selenium"/>
-  <img src="https://playwright.dev/img/playwright-logo.svg" width="42" height="42" title="Playwright"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cypress.svg" width="42" height="42" title="Cypress"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cucumber.svg" width="42" height="42" title="Cucumber"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Appium.png" width="42" height="42" title="Appium"/>
-  <img src="https://avatars.githubusercontent.com/u/92543516?s=200&v=4" width="42" height="42" title="Maestro"/>
-</p>
+<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="42" height="42" title="Selenium"/>&nbsp;&nbsp;&nbsp;<img src="https://playwright.dev/img/playwright-logo.svg" width="42" height="42" title="Playwright"/>&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cypress.svg" width="42" height="42" title="Cypress"/>&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cucumber.svg" width="42" height="42" title="Cucumber"/>&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Appium.png" width="42" height="42" title="Appium"/>&nbsp;&nbsp;&nbsp;<img src="https://avatars.githubusercontent.com/u/92543516?s=200&v=4" width="42" height="42" title="Maestro"/></p>
 
 ### 🔬 API & Performance
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="42" height="42" title="Postman"/>
-  <img src="https://jmeter.apache.org/images/jmeter_square.png" alt="JMeter" width="42" height="42" title="JMeter"/>
-</p>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" height="42" title="Postman"/>&nbsp;&nbsp;&nbsp;<img src="https://jmeter.apache.org/images/jmeter_square.png" width="42" height="42" title="JMeter"/></p>
 
 ### 💻 Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42" title="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42" title="C"/>
-</p>
+<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" title="Java"/>&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" title="Python"/>&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" title="JavaScript"/>&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" title="C"/></p>
 
 
 ---
@@ -120,8 +105,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=apurbokabbo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=apurbokabbo&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apurbokabbo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurbokabbo&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
@@ -129,9 +115,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=apurbokabbo&theme=tokyonight&no-frame=true&row=1&column=6" />
+ <img src="https://github-profile-trophy.vercel.app/?username=apurbokabbo&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=8" />
 </p>
-
 ---
 
 ## 🐍 Contribution Graph
