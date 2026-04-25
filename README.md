@@ -115,8 +115,10 @@
 </p>
 
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=apurbokabbo&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apurbokabbo&theme=tokyo-night&hide_border=true&area=true" />
 </p>
+
+
 ---
 
 ## 🐍 Contribution Graph
