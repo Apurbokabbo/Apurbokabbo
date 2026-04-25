@@ -15,16 +15,9 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v3
-
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: apurbokabbo
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
       - uses: actions/checkout@v4
+        with:
+          clean: false
 
       - uses: Platane/snk@v3
         with:
@@ -37,5 +30,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
