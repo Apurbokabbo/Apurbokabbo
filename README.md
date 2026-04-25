@@ -119,7 +119,7 @@
 </p>
 ---
 
-#### 🐍 Contribution Graph
+## 🐍 Contribution Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/apurbokabbo/apurbokabbo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
