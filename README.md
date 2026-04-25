@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00D9FF&center=true&vCenter=true&width=700&lines=🧪+Software+Quality+Assurance+Engineer;⚡+Automation+%7C+Manual+%7C+API+%7C+Performance+Testing;🛠️+Selenium+%7C+Appium+%7C+Playwright+%7C+Maestro+%7C+Cypress+%7C+Cucumber;🚀+Testing+Beyond+Bugs+—+Ensuring+Quality+Experience" alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FFAC1C&center=true&vCenter=true&width=700&lines=🧪+Software+Quality+Assurance+Engineer;⚡+Automation+%7C+Manual+%7C+API+%7C+Performance+Testing;🛠️+Selenium+%7C+Appium+%7C+Playwright+%7C+Maestro+%7C+Cypress+%7C+Cucumber;🚀+Testing+Beyond+Bugs+—+Ensuring+Quality+Experience" alt="Typing Animation">
   </a>
 </p>
 
