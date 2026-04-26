@@ -67,14 +67,28 @@
 ## 🛠️ Languages & Tools
 
 ### ⚡ Automation Frameworks
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="42" height="42" title="Selenium"/>&nbsp;&nbsp;&nbsp;<img src="https://playwright.dev/img/playwright-logo.svg" width="42" height="42" title="Playwright"/>&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cypress.svg" width="42" height="42" title="Cypress"/>&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cucumber.svg" width="42" height="42" title="Cucumber"/>&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Appium.png" width="42" height="42" title="Appium"/>&nbsp;&nbsp;&nbsp;<img src="https://avatars.githubusercontent.com/u/92543516?s=200&v=4" width="42" height="42" title="Maestro"/></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maestro-000000?style=for-the-badge"/>
+</p>
 
 ### 🔬 API & Performance
-<p align="left"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" height="42" title="Postman"/>&nbsp;&nbsp;&nbsp;<img src="https://jmeter.apache.org/images/jmeter_square.png" width="42" height="42" title="JMeter"/></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
+</p>
 
 ### 💻 Languages
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" title="Java"/>&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" title="Python"/>&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" title="JavaScript"/>&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" title="C"/></p>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
 
 ---
 
@@ -121,7 +135,7 @@
 
 ---
 
-## 🐍 Contribution Graph
+##  Contribution Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/apurbokabbo/apurbokabbo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
