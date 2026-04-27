@@ -26,7 +26,7 @@
 
 - 🚀 **Software Quality Assurance Engineer** with **4.5+ years** of hands-on experience in **Automation, Manual, API & Performance Testing**
 - 🧠 Currently exploring **Playwright Advanced Patterns**, **AI-Assisted Testing**, and **Cloud Test Automation**
-- 💡 Skilled in **Test Strategy Design**, **Agile QA Practices**, and **CI/CD Pipeline Integration**
+- 💡 Skilled in **Test Strategy Design**, **Agile QA Practices**, and **Automation Testing**
 - 🛠️ Hands-on with **Selenium · Playwright · Cypress · Cucumber · Postman · JMeter · Appium · Git**
 - 🔐 Expanding into **Security Testing** and **Shift-Left QA methodologies**
 - ✨ Believer in *"Testing Beyond Bugs — Ensuring Quality Experience"*
@@ -107,11 +107,11 @@
 
 | Domain | Skills |
 |---|---|
-| 🤖 **Test Automation** | Selenium WebDriver, Playwright, Cypress, Cucumber BDD, Appium |
-| 📡 **API Testing** | Postman, REST Assured, Contract Testing, API Automation |
+| 🤖 **Test Automation** | Selenium WebDriver, Playwright, Cypress, Cucumber BDD, Appium, Maestro |
+| 📡 **API Testing** | Postman, REST Assured, Contract Testing, API Automation, Newman Report |
 | ⚡ **Performance Testing** | JMeter, Load Testing, Stress Testing, Scalability Analysis |
 | 📋 **Manual Testing** | Exploratory Testing, Test Case Design, Bug Lifecycle Management |
-| 🔄 **Agile QA** | Sprint-based QA, Shift-Left Testing, CI/CD Integration |
+| 🔄 **Agile QA** | Sprint-based QA, Shift-Left Testing |
 | 🛠️ **Test Management** | Jira, TestRail, Test Strategy, Defect Reporting |
 
 ---
