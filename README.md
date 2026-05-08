@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 **Software Quality Assurance Engineer** with **4.5+ years** of hands-on experience in **Automation, Manual, API & Performance Testing**
+- 🚀 **Software Quality Assurance Engineer** with **5+ years** of hands-on experience in **Automation, Manual, API & Performance Testing**
 - 🧠 Currently exploring **Playwright Advanced Patterns**, **AI-Assisted Testing**, and **Cloud Test Automation**
 - 💡 Skilled in **Test Strategy Design**, **Agile QA Practices**, and **Automation Testing**
 - 🛠️ Hands-on with **Selenium · Playwright · Cypress · Cucumber · Postman · JMeter · Appium · Git**
